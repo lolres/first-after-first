@@ -13,3 +13,7 @@
 .footer {
   display: flex;
 }
+
+.main {
+  background-color: wheat;
+}
