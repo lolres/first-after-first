@@ -9,3 +9,7 @@
 .header {
   padding: 25px;
 }
+
+.footer {
+  display: flex;
+}
